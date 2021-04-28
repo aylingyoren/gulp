@@ -1,0 +1,41 @@
+{
+  "name": "pack_temp",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aylingyoren/gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aylingyoren/gulp/issues"
+  },
+  "homepage": "https://github.com/aylingyoren/gulp#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "browser-sync": "^2.26.14",
+    "css-mqpacker": "^7.0.0",
+    "cssnano": "^5.0.2",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csscomb": "^3.1.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^2.0.1",
+    "postcss": "^8.2.13",
+    "sort-css-media-queries": "^1.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "postcss-scss": "^3.0.5",
+    "sassy-normalize": "^8.0.5"
+  },
+  "description": ""
+}
